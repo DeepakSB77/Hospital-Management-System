@@ -1,0 +1,54 @@
+body {
+    background-image: url(/1.webp);
+    background-size: 100%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'News Cycle', sans-serif;
+}
+
+.form {
+    display: inline-block;
+    justify-content: center;
+    border: 2em;
+    border-radius: 1em;
+    /* background-color: #22223b; */
+    padding: 3em 5em 3em 5em;
+    width: 50%;
+    margin-left: 20%;
+    font-family: 'News Cycle', sans-serif;
+}
+
+.input-p {
+    /* background-color: aquamarine; */
+    padding: 1em;
+    margin: 1em;
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    font-weight: bolder;
+    /* background-color: beige; */
+    border-radius: 0.3em;
+    font-family: 'News Cycle', sans-serif;
+
+}
+
+.input-text {
+    /* background-color: rgb(236, 242, 242); */
+    padding: 0.5em;
+    border-radius: 0.5em;
+    color: black;
+
+}
+
+.submit {
+    margin-left: 39%;
+    padding: 0.7em 1.9em;
+    display: flex;
+    justify-content: center;
+    border: 0.2em solid black;
+    border-radius: 0.3em;
+
+}
