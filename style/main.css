@@ -1,0 +1,140 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navigations {
+    background-color: #20718f;
+    box-shadow: 5px 5px 3px 0px #005f73;
+}
+
+.navv {
+    display: inline-block;
+    margin: 0.4em;
+    align-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 12%;
+    font-style: #ffb703;
+}
+
+.navv a {
+    -webkit-text-stroke: 0.2px rgb(0, 0, 0);
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
+.navv a:hover {
+    background-image: linear-gradient(to right,
+            #54b3d6,
+            #54b3d6 50%,
+            #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+}
+
+.hspimg {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    background-color: #20718f;
+}
+
+.li-footer {
+    display: inline-block;
+    margin: 0.4em;
+    align-content: center;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+    padding-left: 8%;
+    color: #ffb703;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.p-footer {
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    font-weight: bold;
+    padding-top: 0.5em;
+}
+
+
+
+
+/* MAIN CODE IS BELOW */
+
+
+
+/* body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navigations {
+    background-color: #2a9d8f;
+    box-shadow: 5px 5px 3px 0px #005f73;
+}
+
+.navv {
+    display: inline-block;
+    margin: 0.4em;
+    align-content: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 12%;
+    font-style: #ffb703;
+}
+
+.navv a {
+    color: #ffb703;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.hspimg {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    background-color: #2a9d8f;
+}
+
+.li-footer {
+    display: inline-block;
+    margin: 0.4em;
+    align-content: center;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+    padding-left: 8%;
+    color: #ffb703;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.p-footer {
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    font-weight: bold;
+    padding-top: 0.5em;
+} */
